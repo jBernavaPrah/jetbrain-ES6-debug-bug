@@ -1,0 +1,12 @@
+{
+  "name": "jetbrain-ES6-debug-bug",
+  "version": "1.0.0",
+  "main": "src/main.ts",
+  "devDependencies": {
+    "jest": "^29.6.1",
+    "ts-jest": "^29.1.0",
+    "@types/jest": "^29.5.2",
+    "ts-node": "^10.9.1"
+
+  }
+}
